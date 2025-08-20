@@ -1,6 +1,6 @@
 # Ivan Alves <img src="https://media.tenor.com/BocFr2rC0PoAAAAj/one-piece-pixel.gif" width="100px">
 
-Eu sou <strong>Ivan Alves</strong>, <strong>Atualmente sou aprendiz de Analise e Desenvolvimento de Sistemas.</strong> 👨🏻‍💻 
+Eu sou <strong>Ivan Alves</strong>, <strong>Atualmente aprendiz de Analise e Desenvolvimento de Sistemas.</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Html, Css e Banco de Dados</strong> 
 - 💬 Pergunte-me sobre: <strong>Amo jogar, Assistir animes, séries e filmes. Praticar Esportes e Musculação e estou constantemente tentando melhorar na prática da progamação.</strong>
