@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ivan Alves <img src="https://media.tenor.com/BocFr2rC0PoAAAAj/one-piece-pixel.gif" width="100px">
 
-<!--
-**alvess29/alvess29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou <strong>Ivan Alves</strong>, <strong>Atualmente sou aprendiz de Analise e Desenvolvimento de Sistemas.</strong> 👨🏻‍💻 
 
-Here are some ideas to get you started:
+- 🚀 Atualmente estou aprendendo: <strong>Html, Css e Banco de Dados</strong> 
+- 💬 Pergunte-me sobre: <strong>Amo jogar, Assistir séries, animes, séries e filmes. Praticar Esportes e Musculação e estou constantemente tentando melhorar na prática da progamação.</strong>
+- 📣 Nós podemos falar em: <strong>PTBR</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <a href="#" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+
+  <a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+<p align='center'>
+<a href="LINK_DO_SEU_SITE_AQUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvess29&show_icons=true&theme=radical" alt="Github status" />
+</a>
+</div>
