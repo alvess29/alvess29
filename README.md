@@ -8,10 +8,10 @@
 
 <div align="center">
 
-  <a href="#" alt="Gmail">
+  <a href="#" alt=".">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
-  <a href="#" alt="https://br.linkedin.com/in/ivan-roberto-gomes-alves-dos-santos-25445338">
+  <a href="#" alt=".">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
 <p align='center'>
