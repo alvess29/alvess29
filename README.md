@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
 <p align='center'>
-<a href="LINK_DO_SEU_SITE_AQUI">
+<a href="https://br.linkedin.com/in/ivan-roberto-gomes-alves-dos-santos-254453382">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvess29&show_icons=true&theme=radical" alt="Github status" />
 </a>
 </div>
