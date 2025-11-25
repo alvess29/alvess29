@@ -2,7 +2,7 @@
 
  :man_office_worker: Eu sou <strong>Ivan Alves</strong>, <strong>Atualmente aprendiz de Analise e Desenvolvimento de Sistemas.</strong> 👨🏻‍💻 
 
-- :atom: Atualmente estou aprendendo: <strong>Html, Css e Banco de Dados</strong> 
+- :atom: Atualmente estou aprendendo: <strong>Html, Css, UiUx, Python e Banco de Dados</strong> 
 - 💬 Pergunte-me sobre: <strong>Amo jogar, Assistir animes, séries e filmes. Praticar Esportes e Musculação e estou constantemente tentando melhorar na prática da progamação.</strong>
 - 📣 Nós podemos falar em: <strong>PTBR</strong>
 
