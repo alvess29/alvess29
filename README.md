@@ -1,21 +1,23 @@
-# Ivan Alves <img src="https://media.tenor.com/BocFr2rC0PoAAAAj/one-piece-pixel.gif" width="100px">
+# Ivan Alves
 
- :man_office_worker: Eu sou <strong>Ivan Alves</strong>, <strong>Atualmente aprendiz de Analise e Desenvolvimento de Sistemas.</strong> 👨🏻‍💻 
+Estudante de Análise e Desenvolvimento de Sistemas no SENAC Pernambuco (conclusão prevista para 2027).
 
-- :atom: Atualmente estou aprendendo: <strong>Html, Css, UiUx, Python e Banco de Dados</strong> 
-- 💬 Pergunte-me sobre: <strong>Amo jogar, Assistir animes, séries e filmes. Praticar Esportes e Musculação e estou constantemente tentando melhorar na prática da progamação.</strong>
-- 📣 Nós podemos falar em: <strong>PTBR</strong>
+## Tecnologias
 
-<div align="center">
+- Linguagens: JavaScript, TypeScript e Python
+- Front-end: React, Tailwind CSS, HTML, CSS e PWA
+- Back-end e dados: Node.js, Express, Flask, SQLAlchemy, MySQL, MongoDB e Firebase
+- Em aprendizado: Java, Spring Boot e Angular
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+## Projetos
 
-  <a href="https://br.linkedin.com/in/ivan-roberto-gomes-alves-dos-santos-254453382" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+- Oraculum BB: plataforma de quiz de cibersegurança (React, TypeScript, Firebase)
+- Observatório de Projetos Integradores: plataforma web em Flask para submissão e avaliação de projetos
+- Saúde Recife: agendamento de consultas em PWA com Node.js e Firebase
+- Clima Agora: PWA de previsão do tempo com a API Open-Meteo
+- API de médicos e pacientes com JWT: Node.js, Express e MongoDB
 
-<p align='center'>
-<a href=".">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alvess29&show_icons=true&theme=radical" alt="Github status" />
-</a>
-</div>
+## Contato
+
+- LinkedIn: linkedin.com/in/ivan-roberto-gomes-alves-dos-santos-254453382
+- E-mail: ivanrgasantos29@gmail.com
