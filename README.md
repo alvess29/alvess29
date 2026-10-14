@@ -19,5 +19,5 @@ Estudante de Análise e Desenvolvimento de Sistemas no SENAC Pernambuco (conclus
 
 ## Contato
 
-- LinkedIn: linkedin.com/in/ivan-roberto-gomes-alves-dos-santos-254453382
+- LinkedIn: [linkedin.com/in/ivan-roberto-gomes-alves-dos-santos-254453382](https://www.linkedin.com/in/ivan-roberto-gomes-alves-dos-santos-254453382/?isSelfProfile=true)
 - E-mail: ivanrgasantos29@gmail.com
